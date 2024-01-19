@@ -7,4 +7,5 @@ use:
 `config status`, `config commit`, or `config push`
 ## Resources
 https://youtu.be/tBoLDpTWVOM?si=LXsgvM1a_a_HO99E
+
 https://www.atlassian.com/git/tutorials/dotfiles
