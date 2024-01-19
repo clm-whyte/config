@@ -9,3 +9,10 @@ import = [
 
 [env]
 TERM = "xterm-256color"
+
+[font]
+normal = { family = "JetBrainsMonoNerdFont", style = "Regular" }
+bold = { family = "JetBrainsMonoNerdFont", style = "Bold" }
+italic = { family = "JetBrainsMonoNerdFont", style = "Italic" }
+bold_italic = { family = "JetBrainsMonoNerdFont", style = "BoldItalic" }
+
