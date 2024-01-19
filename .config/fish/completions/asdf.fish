@@ -1,0 +1,1 @@
+/home/calum/.asdf/completions/asdf.fish
