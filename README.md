@@ -12,4 +12,4 @@ use:
 
 ## Resources
 - [DistroTube Guide to Dotfiles in Git Bare Repo](https://youtu.be/tBoLDpTWVOM?si=LXsgvM1a_a_HO99E)
-- [Atlassian Guide to Dotfiles in Git Bare Repo](https://www.atlassian.com/git/tutorials/dotfiles0
+- [Atlassian Guide to Dotfiles in Git Bare Repo](https://www.atlassian.com/git/tutorials/dotfiles)
