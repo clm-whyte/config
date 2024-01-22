@@ -1,5 +1,9 @@
 local plugins = {
   {
+    "christoomey/vim-tmux-navigator",
+    lazy = false,
+  },
+  {
     "nvimtools/none-ls.nvim",
     event = "VeryLazy",
     opts = function()
