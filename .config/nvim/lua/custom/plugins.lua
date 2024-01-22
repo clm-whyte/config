@@ -50,6 +50,7 @@ local plugins = {
         "go",
         "python",
         "java",
+        "css",
       }
       return opts
     end
