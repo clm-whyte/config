@@ -33,7 +33,7 @@
 ### NerdFonts
 #### MacOS
 `brew tap homebrew/cask-fonts`
-`brew install --cask font-jetbrains-mono`
+`brew install --cask font-jetbrains-mono-nerd-font`
 #### Fedora
 1. `sudo mkdir /usr/share/fonts/JetBrainsMono`
 1. `sudo curl --fail --location --continue-at - https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip --output ~/Downloads/JetBrainsMono.zip`
