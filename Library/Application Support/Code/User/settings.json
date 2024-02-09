@@ -1,3 +1,13 @@
 {
-    "editor.fontFamily": "JetBrainsMono Nerd Font"
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.productIconTheme": "fluent-icons",
+    
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true,
+        "**/.ammonite": true
+    }
 }
