@@ -1,13 +1,23 @@
 {
-    "workbench.colorTheme": "Catppuccin Mocha",
-    "workbench.iconTheme": "catppuccin-mocha",
-    "workbench.productIconTheme": "fluent-icons",
-    
-    "editor.fontFamily": "JetBrainsMono Nerd Font",
-    
-    "files.watcherExclude": {
-        "**/.bloop": true,
-        "**/.metals": true,
-        "**/.ammonite": true
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "files.watcherExclude": {
+    "**/.bloop": true,
+    "**/.metals": true,
+    "**/.ammonite": true
+  },
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.profiles.osx": {
+    "zsh": {
+      "path": "arch",
+      "args": [
+        "-x86_64",
+        "zsh",
+        "-l"
+      ],
+      "overrideName": true
     }
+  }
 }
